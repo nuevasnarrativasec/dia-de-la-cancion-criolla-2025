@@ -1,0 +1,2044 @@
+/* INICIO BARRA */
+
+.logo-peru21 {
+    background: url(https://especiales.peru21.pe/elementos-comunes/img/logo.png) no-repeat 0 0;
+    background-size: 100%;
+    display: block;
+    height: 24px;
+    width: 75px;
+    float: left;
+}
+
+.boton-especiales {
+    text-decoration: none;
+    display: inline-block;
+    text-indent: 0 !important;
+    /*margin: 0 0 0 9px;*/
+    color: #fff;
+    font: 700 13px/13px Arial;
+    padding-top: 4px;
+}
+
+#bloque-sabina-desktop,
+#bloque-sabina {
+    background-color: #FFFDF0;
+}
+
+a.boton-especiales:hover {
+    color: #f2c619 !important;
+    text-decoration: none;
+}
+
+.boton-especiales {
+    padding: 0px 0px 0px 10px;
+    top: -8px;
+    position: relative;
+}
+
+
+#social{
+                    position: absolute;
+                    right: 0;
+                    top: -2px;
+                    z-index: 600;
+                    margin: 0;
+                }
+                #social ul{
+                    display: inline-block;
+                    margin: 0 auto;
+                    padding: 0;
+                    vertical-align: middle;
+                }
+                    #social ul li{
+                        display: inline-block;
+                        margin: 0 3px;
+                        vertical-align: middle;
+                    }
+                        #social ul li a{
+                            height: 36px;
+                            width: 36px;
+                        }
+                        #fb{
+                            background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/personas-desaparecidas/img/fb-icon.png?v2) no-repeat 0 0;
+                            background-size: 100% !important;
+                            border: none;
+                            display: inline-block;
+                            height: 36px;
+                            text-indent: -9999px;
+                            width: 36px;
+                        }
+                        #wst{                
+                            background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/personas-desaparecidas/img/wsp-icon.png?v2) no-repeat 0 0 !important;
+                            background-size: 100% !important;
+                            border: none;
+                            display: none;
+                            height: 36px;
+                            text-indent: -9999px;
+                            width: 36px;
+                        }
+                        #tw{            
+                            background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales-multimedia/personas-desaparecidas/img/tw-icon.png?v2) no-repeat 0 0 !important;
+                            background-size: 100% !important;
+                            border: none;
+                            display: inline-block;
+                            height: 36px;
+                            text-indent: -9999px;
+                            width: 36px;
+                        } 
+
+
+
+
+
+
+
+/* FIN BARRA */
+
+@font-face {
+    font-family: 'magic-dreams';
+    font-weight: normal;
+    src: url('../fonts/magic-dreams.ttf') format("truetype"), url('../fonts/magic-dreams.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/magic-dreams.woff') format('woff'), /* Pretty Modern Browsers */
+    url('../fonts/magic-dreams.eot?#iefix') format('embedded-opentype');
+    /* IE6-IE8 */
+}
+
+.item7 p {
+    color: #FFAD66 !important;
+    font: 32px/30px "magic-dreams";
+    padding: 20px 10px 40px 10px;
+    text-align: center;
+}
+
+.bg-color-1 {
+    background-color: #6c951a;
+}
+
+.bg-color-2 {
+    background-color: #00A1A0;
+}
+
+.bg-color-3 {
+    background-color: #dad801;
+}
+
+.bg-color-4 {
+    background-color: #00a98e;
+}
+
+.bg-color-5 {
+    background-color: #671631;
+}
+
+.bg-color-6 {
+    background-color: #d23001;
+}
+
+.item7 {
+    display: inline-block;
+    width: 314px;
+    margin-bottom: 14px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.item7,
+.item7 img {
+    cursor: pointer;
+    max-width: 260px;
+}
+
+.item7 img {
+    /*box-shadow: 15px 15px 25px #dcc290;*/
+}
+
+.img-creditos {
+    margin: 0 auto;
+    max-width: 80px;
+}
+
+.btn-buscar a {
+    padding: 10px 0;
+    background-color: #e3c20a;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 15px;
+    border: 5px solid #eace17;
+    top: 27px;
+    /* position: relative; */
+    display: block;
+    width: 200px;
+    margin: 10px auto 10px auto;
+    border-radius: 25px;
+    z-index: 20
+}
+
+.btn-buscar a:hover {
+    text-decoration: none;
+    background-color: #ffd800;
+    border: 5px solid #e8ca00;
+    /* display: inline-block; */
+}
+
+.color-yellow {
+    color: #ffc828 !important;
+}
+
+p.btn-sabina {
+    font: 16px/20px "acto-bold";
+    color: #202020;
+    padding-bottom: 20px;
+    padding-top: 0px;
+}
+
+.btn-sabina a {
+    color: white;
+    border: 1px solid #545454;
+    border-radius: 10px;
+    padding: 2px 15px;
+}
+
+.btn-sabina a:hover {
+    text-decoration: none;
+}
+
+.header-comercio {
+    background: #ad141a;
+    padding: 6px 0 4px 8px;
+    height: 45px;
+}
+
+.ctn-header-comercio {
+    margin: 0 auto;
+    max-width: 990px;
+    position: relative;
+    text-align: left
+}
+
+.ctn-header-comercio a {
+    display: inline-block;
+    text-indent: -9999px
+}
+
+a.logo-comercio {
+    background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/ganadores-elecciones/img/logo-comercio.png) no-repeat 0 3px;
+    background-size: 100%;
+    height: 25px;
+    width: 110px
+}
+
+a.logo-especiales {
+    background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/que-frase-de-cerati-eres-ecvisual-ecpm/img/logo-especiales.png) no-repeat 0 3px;
+    background-size: 100%;
+    height: 22px;
+    width: 100px;
+}
+
+a.logo-comercio-especiales {
+    text-indent: inherit;
+    padding-top: 2px;
+}
+
+a.logo-comercio-especiales img {
+    vertical-align: top
+}
+
+#social {
+    float: right;
+    margin-right: 0
+}
+
+#social ul {
+    display: inline-block;
+    margin: -5px auto 0;
+    padding: 0;
+    vertical-align: top
+}
+
+#social ul li {
+    display: inline-block;
+    margin: 0 1px;
+    vertical-align: top
+}
+
+#social ul li a {
+    height: 28px;
+    width: 32px
+}
+
+#social ul li a.facebook {
+    background: url(../img/sprite-redes.png) no-repeat -6px -4px;
+    background-size: 130px
+}
+
+#social ul li a.wst {
+    background: url(../img/sprite-redes.png) no-repeat -92px -4px;
+    background-size: 130px;
+    display: none
+}
+
+#social ul li a.tw {
+    background: url(../img/sprite-redes.png) no-repeat -50px -4px;
+    background-size: 130px
+}
+
+#social ul li:hover {
+    opacity: 0.5
+}
+
+.btn {
+    border-radius: 10px
+}
+
+.bg-gris {
+    background-color: #FFFDF0
+}
+
+/*! Swipebox v1.3.0 | Constantin Saguin csag.co | MIT License | github.com/brutaldesign/swipebox */
+
+html.swipebox-html.swipebox-touch {
+    overflow: hidden !important
+}
+
+#swipebox-overlay img {
+    border: none !important
+}
+
+#swipebox-overlay {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999 !important;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+#swipebox-container {
+    position: relative;
+    width: 100%;
+    height: 100%
+}
+
+#swipebox-slider {
+    -webkit-transition: -webkit-transform 0.4s ease;
+    transition: transform 0.4s ease;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+    white-space: nowrap;
+    position: absolute;
+    display: none;
+    cursor: pointer
+}
+
+#swipebox-slider .slide {
+    height: 100%;
+    width: 100%;
+    line-height: 1px;
+    text-align: center;
+    display: inline-block
+}
+
+#swipebox-slider .slide:before {
+    content: "";
+    display: inline-block;
+    height: 50%;
+    width: 1px;
+    margin-right: -1px
+}
+
+#swipebox-slider .slide img,
+#swipebox-slider .slide .swipebox-video-container,
+#swipebox-slider .slide .swipebox-inline-container {
+    display: inline-block;
+    max-height: 70%;
+    max-width: 70%;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    vertical-align: middle
+}
+
+#swipebox-slider .slide .swipebox-video-container {
+    background: 0;
+    max-width: 1140px;
+    max-height: 100%;
+    width: 100%;
+    padding: 5%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box
+}
+
+#swipebox-slider .slide .swipebox-video-container .swipebox-video {
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    overflow: hidden;
+    position: relative
+}
+
+#swipebox-slider .slide .swipebox-video-container .swipebox-video iframe {
+    width: 100% !important;
+    height: 100% !important;
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+#swipebox-slider .slide-loading {
+    background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/proyectos_especiales_prod/especiales/que-frase-de-sabina-eres/css./img/loader.gif) no-repeat center center
+}
+
+#swipebox-bottom-bar,
+#swipebox-top-bar {
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    position: absolute;
+    left: 0;
+    z-index: 999;
+    height: 50px;
+    width: 100%
+}
+
+#swipebox-bottom-bar {
+    bottom: -50px
+}
+
+#swipebox-bottom-bar.visible-bars {
+    -webkit-transform: translate3d(0, -50px, 0);
+    transform: translate3d(0, -50px, 0)
+}
+
+#swipebox-top-bar {
+    top: -50px
+}
+
+#swipebox-top-bar.visible-bars {
+    -webkit-transform: translate3d(0, 50px, 0);
+    transform: translate3d(0, 50px, 0)
+}
+
+#swipebox-title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 5px 150px
+}
+
+#swipebox-prev,
+#swipebox-next,
+#swipebox-close {
+    background-image: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/proyectos_especiales_prod/especiales/que-frase-de-sabina-eres/css./img/icons.png);
+    background-repeat: no-repeat;
+    border: none !important;
+    text-decoration: none !important;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    top: 0
+}
+
+#swipebox-arrows {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: 50px
+}
+
+#swipebox-prev {
+    background-position: -32px 13px;
+    float: left
+}
+
+#swipebox-next {
+    background-position: -78px 13px;
+    float: right
+}
+
+#swipebox-close {
+    top: 0;
+    right: 0;
+    position: absolute;
+    z-index: 9999;
+    background-position: 15px 12px
+}
+
+.swipebox-no-close-button #swipebox-close {
+    display: none
+}
+
+#swipebox-prev.disabled,
+#swipebox-next.disabled {
+    opacity: 0.3
+}
+
+.swipebox-no-touch #swipebox-overlay.rightSpring #swipebox-slider {
+    -webkit-animation: rightSpring 0.3s;
+    animation: rightSpring 0.3s
+}
+
+.swipebox-no-touch #swipebox-overlay.leftSpring #swipebox-slider {
+    -webkit-animation: leftSpring 0.3s;
+    animation: leftSpring 0.3s
+}
+
+.swipebox-touch #swipebox-container:before,
+.swipebox-touch #swipebox-container:after {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    content: " ";
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    height: 100%;
+    width: 20px;
+    opacity: 0
+}
+
+.swipebox-touch #swipebox-container:before {
+    left: 0;
+    -webkit-box-shadow: inset 10px 0 10px -8px #656565;
+    box-shadow: inset 10px 0 10px -8px #656565
+}
+
+.swipebox-touch #swipebox-container:after {
+    right: 0;
+    -webkit-box-shadow: inset -10px 0 10px -8px #656565;
+    box-shadow: inset -10px 0 10px -8px #656565
+}
+
+.swipebox-touch #swipebox-overlay.leftSpringTouch #swipebox-container:before {
+    opacity: 1
+}
+
+.swipebox-touch #swipebox-overlay.rightSpringTouch #swipebox-container:after {
+    opacity: 1
+}
+
+@-webkit-keyframes rightSpring {
+    0% {
+        left: 0
+    }
+    50% {
+        left: -30px
+    }
+    100% {
+        left: 0
+    }
+}
+
+@keyframes rightSpring {
+    0% {
+        left: 0
+    }
+    50% {
+        left: -30px
+    }
+    100% {
+        left: 0
+    }
+}
+
+@-webkit-keyframes leftSpring {
+    0% {
+        left: 0
+    }
+    50% {
+        left: 30px
+    }
+    100% {
+        left: 0
+    }
+}
+
+@keyframes leftSpring {
+    0% {
+        left: 0
+    }
+    50% {
+        left: 30px
+    }
+    100% {
+        left: 0
+    }
+}
+
+@media screen and (min-width: 800px) {
+    #swipebox-close {
+        right: 10px
+    }
+    #swipebox-arrows {
+        width: 92%;
+        max-width: 800px
+    }
+}
+
+#swipebox-overlay {
+    background: #0d0d0d
+}
+
+#swipebox-bottom-bar,
+#swipebox-top-bar {
+    text-shadow: 1px 1px 1px #000;
+    background: #000;
+    opacity: 0.95
+}
+
+#swipebox-top-bar {
+    color: white !important;
+    font: 15px/20px "robotoregular" !important
+}
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px
+}
+
+.col-xs-15 {
+    width: 20%;
+    float: left
+}
+
+@media (min-width: 768px) {
+    .col-sm-15 {
+        width: 20%;
+        float: left
+    }
+}
+
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1004px
+    }
+}
+
+body,
+html {
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-y: auto;
+    overflow-x: hidden
+}
+
+ul,
+ol {
+    padding: 0;
+    moz-padding: 0;
+    webkit-padding: 0
+}
+
+a {
+    color: #222
+}
+
+.boton-subir {
+    padding-top: 20px !important;
+    position: fixed !important;
+    bottom: 20px !important;
+    z-index: 9999 !important
+}
+
+@font-face {
+    font-family: "PlayBuzz-icons";
+    src: url(//cdn.playbuzz.com/fonts/Playbuzz/Playbuzz_com_icons.eot) format("eot");
+    src: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod//cdn.playbuzz.com/fonts/Playbuzz/Playbuzz_com_icons.eot?#iefix) format("embedded-opentype"), url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod//cdn.playbuzz.com/fonts/Playbuzz/Playbuzz_com_icons.woff) format("woff"), url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod//cdn.playbuzz.com/fonts/Playbuzz/Playbuzz_com_icons.ttf) format("truetype"), url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod//cdn.playbuzz.com/fonts/Playbuzz/Playbuzz_com_icons.svg) format("svg")
+}
+
+@font-face {
+    font-family: "acto-bold";
+    /*src:url(fonts/beautyandthebeast.eot);*/
+    src: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/que-frase-de-cerati-eres-ecvisual-ecpm/fonts/acto-bold-webfont.woff) format("woff"), url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/que-frase-de-cerati-eres-ecvisual-ecpm/fonts/acto-bold-webfont.woff2) format("woff2");
+    font-style: normal;
+    font-weight: normal
+}
+
+#footer {
+    background-color: #252525;
+    padding-top: 100px;
+    padding-bottom: 50px
+}
+
+p.txt-footer {
+    font: 20px/20px "stagsemibold";
+    color: white;
+    text-align: left;
+}
+
+p.txt-creditos2 {
+    font: 15px/30px "robotolight";
+    letter-spacing: 4px
+}
+
+.color-dorado {
+    color: #f7d000 !important
+}
+
+.navbar {
+    font: 21px/105px "staglight";
+    background-color: #fff;
+    background-position: center 140px;
+    background-repeat: no-repeat;
+    height: auto
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus {
+    font-family: "stagsemibold";
+    font-size: 19px;
+    color: black !important;
+    border-bottom: 4px solid white
+}
+
+.nav-tabs>li>a:hover {
+    border-color: #eee #eee #ddd
+}
+
+.nav>li>a:hover,
+.nav>li>a:focus {
+    background-color: #333
+}
+
+.nav>li>a {
+    padding: 10px 22px 10px 35px !important;
+    color: #757575;
+    font: 21px/35px "staglight"
+}
+
+/* MENU */
+
+ul.mimenu {
+    display: inline-block;
+    /*background-color: pink;*/
+    padding-top: 50px
+}
+
+ul.mimenu li {
+    display: inline-block;
+    padding: 0 25px
+}
+
+ul.mimenu li a {
+    color: white;
+    font: 17px/12px "robotobold";
+    letter-spacing: 2px
+}
+
+ul.mimenu li a.active {
+    text-decoration: underline
+}
+
+h1>span {
+    color: #0ec228
+}
+
+a.page-scroll {
+    color: white !important;
+    position: fixed;
+    z-index: 9999;
+    bottom: 10px;
+    right: 10px
+}
+
+p.txt-header {
+    font: 22px/28px "prelolight";
+    font-weight: 500;
+    color: #fff;
+    text-align: center;
+    border-top: 6px solid #0ec228;
+    margin: 37px 320px;
+    padding-top: 10px
+}
+
+.border-orange {
+    border-bottom: 14px solid #f45245
+}
+
+p.txt-footer {
+    padding: 0 !important
+}
+
+.txt-subtitle {
+    font: 25px/28px "robotoregular";
+    padding-right: 147px;
+    color: #000;
+    text-align: left
+}
+
+.txt-white {
+    color: #fff
+}
+
+.sangria {
+    text-indent: 2em
+}
+
+.txt-creditos {
+    font: 17px/30px "robotolight";
+    color: #644d52;
+    text-align: left;
+    padding-top: 0
+}
+
+.line-down {
+    border-bottom: 1px solid #898989;
+    padding-bottom: 30px
+}
+
+p.txt-a-title {
+    font: 28px/30px "stagbold";
+    color: #000;
+    display: block
+}
+
+p.txt-b-title {
+    font: 85px/32px "stagbold";
+    color: #000;
+    display: block
+}
+
+p {
+    font: 20px/30px "robotoregular";
+    color: #202020;
+    padding-top: 20px
+}
+
+p.txt-mov {
+    font: 15px/18px "robotoregular";
+    color: #202020;
+    padding-top: 0
+}
+
+p.txt-pie {
+    font: 15px/30px "chartertcproregular";
+    color: #202020;
+    padding-top: 10px;
+    text-align: center
+}
+
+p.img-creditos {
+    font: 14px/20px "robotoregular";
+    color: #636363;
+    padding: 10px 5px
+}
+
+p.img-creditos2 {
+    font: 14px/20px "robotoregular";
+    color: #636363;
+    padding-top: 50px;
+    padding-right: 200px
+}
+
+p.bajada-diario {
+    padding-left: 15px
+}
+
+p.txt-informo {
+    font: 31px/40px "stagbookitalic";
+    color: #585858;
+    padding-bottom: 0;
+    margin-bottom: 0
+}
+
+p.txt-elcomercio {
+    font: 34px/15px "stagsemibold";
+    color: #c2c2c2;
+    padding-top: 0
+}
+
+a.btn-seccion {
+    font: 20px/30px "prelobold";
+    color: #39cd4e;
+    text-decoration: none;
+    border: 2px solid #39cd4e;
+    padding: 5px 5px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    -webkit-transition: all 0.9s ease;
+    -webkit-transition: all 0.9s ease;
+    -moz-transition: all 0.9s ease;
+    -o-transition: all 0.9s ease;
+    transition: all 0.9s ease
+}
+
+a.btn-seccion-2 {
+    font: 20px/30px "prelobold";
+    background-color: #006609;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 5px;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+    -webkit-transition: all 0.9s ease;
+    -webkit-transition: all 0.9s ease;
+    -moz-transition: all 0.9s ease;
+    -o-transition: all 0.9s ease;
+    transition: all 0.9s ease
+}
+
+a:hover.btn-seccion,
+a:hover.btn-seccion-2 {
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #39cd4e;
+    color: white
+}
+
+span.flecha-anim {
+    -webkit-animation-name: AnimInfinita2;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 0s;
+    -moz-animation-name: AnimInfinita2;
+    -moz-animation-duration: 2s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -moz-animation-delay: 0s;
+    -o-animation-name: AnimInfinita2;
+    -o-animation-duration: 2s;
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+    -o-animation-delay: 0s;
+    -ms-animation-name: AnimInfinita2;
+    -ms-animation-duration: 2s;
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+    -ms-animation-delay: 0s;
+    animation-name: AnimInfinita2;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 0s
+}
+
+/* ANIMACION PORTADA */
+
+.avion {
+    background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/ganadores-elecciones/img/avion.png) no-repeat 0 0;
+    height: 106px;
+    position: absolute;
+    top: 200px;
+    width: 155px;
+    -webkit-animation: linear infinite;
+    -webkit-animation-name: vuelo;
+    -webkit-animation-duration: 10s
+}
+
+@-webkit-keyframes vuelo {
+    0% {
+        right: -30%
+    }
+    50% {
+        right: 50%
+    }
+    100% {
+        right: 100%
+    }
+}
+
+.fuego {
+    background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/ganadores-elecciones/img/fuego-1.png);
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    -webkit-animation: linear infinite;
+    -webkit-animation-name: fuego;
+    -webkit-animation-duration: 2s
+}
+
+@-webkit-keyframes fuego {
+    0% {
+        opacity: .2
+    }
+    20% {
+        opacity: .3
+    }
+    40% {
+        opacity: .4
+    }
+    60% {
+        opacity: .4
+    }
+    80% {
+        opacity: .3
+    }
+    100% {
+        opacity: .2
+    }
+}
+
+/* FIN ANIMACION PORTADA */
+
+.nav-burger>li.burger>a {
+    padding: 0 !important;
+    color: white;
+    font: 14px/35px "robotobold" !important;
+    background-color: black;
+    text-align: left
+}
+
+/*Damos estilos al menÃº*/
+
+.nav-burger {
+    position: absolute;
+    width: 200px;
+    height: 100vh;
+    top: 0;
+    left: -220px;
+    /*Ocultamos el menÃº en la parte izquierda para que no se vea a menos que pulsemos sobre la hamburguesa*/
+    padding-top: 50px;
+    background-color: rgba(29, 33, 32, 1);
+    border-right: 4px solid rgb(111, 111, 111);
+    transition: all 0.5s ease;
+    /*Damos a la caja del menÃº una transiciÃ³n para que tenga un desplazamiento suave*/
+}
+
+/*Estilos de los li del menÃº*/
+
+.nav__item {
+    display: block;
+    width: 96%;
+    margin: 0 auto;
+    line-height: 2;
+    position: relative;
+    /*Le damos una posiciÃ³n relativa para posteriormente aÃ±adirle el triangulo que indica que se estÃ¡ en la pÃ¡gina actual del menÃº*/
+    border-bottom: 0.5px solid rgba(59, 62, 61, 1);
+    border-top: 0.5px solid rgba(59, 62, 61, 1);
+    background-color: transparent;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    color: rgba(221, 231, 228, 1)
+}
+
+.current span {
+    padding-left: 16px
+}
+
+/*Damos colocamos el triangulo negro a la pestaÃ±a del menÃº dÃ³nde nos encontramos actualmente*/
+
+.current:before {
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    /*Le damos al before una posiciÃ³n absoluta relativa al li que lo contiene*/
+    border-top: 17px solid transparent;
+    border-left: 15px solid #1D2120;
+    border-bottom: 17px solid transparent;
+    top: 0;
+    right: -15px;
+    /*Lo posicionamos -15px a la derecha de su contenedor*/
+    z-index: 4;
+    /*le otorgamos un z-index alto para que se posicione arriba de otros elementeos*/
+}
+
+/*Colocamos el borde verde al triangulo por medio de otro trangulo verde*/
+
+.current:after {
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    /*Le damos al after una posiciÃ³n absoluta relativa al li que lo contiene*/
+    border-top: 16.5px solid transparent;
+    border-left: 17px solid rgb(111, 111, 111);
+    border-bottom: 17px solid transparent;
+    top: 0.5px;
+    right: -21px;
+    z-index: 1;
+    /*le otorgamos un z-index bajo para que se posicione debajo del trinagulo negro*/
+}
+
+/*Estos son los estilos de la hamburguesa del menÃº que abre y cierra el mismo*/
+
+.menu-toogle {
+    position: fixed;
+    /*Lo posicionamos absolutamente para poder darle una posiciÃ³n y poder moverlo segÃºn el menÃº estÃ© abierto o cerrado*/
+    width: 35px;
+    line-height: 1.1;
+    text-align: center;
+    top: 55px;
+    /*Le damos una posiciÃ³n top y left en donde queramos que se encuentre la hamburguesa del menÃº*/
+    left: 8px;
+    border-radius: 3px;
+    background-color: black;
+    transition: all 0.5s ease;
+    /*AÃ±adimos una transiciÃ³n para que realice un desplazamineto suave*/
+    z-index: 1000000000000000000000000000000000000
+}
+
+/*AÃ±adimos la haburguesa y le damos unos estilos*/
+
+.menu-toogle::before {
+    content: "â˜°";
+    font-size: 32px;
+    color: white
+}
+
+/* Le damos unos estilos al contenedor principal*/
+
+.main-w {
+    width: 100%;
+    height: 100vh;
+    transition: all 0.5s ease
+}
+
+.header-w figure {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    position: relative
+}
+
+.header-w figure:before {
+    content: "O";
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    background-color: white;
+    border-radius: 100%;
+    color: #A9BC00;
+    font-size: 120%;
+    font-weight: bolder;
+    font-family: verdana;
+    left: 42vw;
+    top: 9vw
+}
+
+.header-w figure:after {
+    content: "O";
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    background-color: white;
+    border-radius: 100%;
+    color: #A9BC00;
+    font-size: 120%;
+    font-weight: bolder;
+    font-family: verdana;
+    left: 50.8vw;
+    top: 9vw
+}
+
+.featured-img {
+    margin: 3em 6vw 0 0;
+    border: 4px solid white;
+    border-radius: 100%
+}
+
+.header-w__description {
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    padding: 1em;
+    line-height: 2;
+    text-align: center;
+    color: rgba(33, 36, 8, 1)
+}
+
+.header-w__title {
+    font-size: 300%;
+    font-family: Lobster;
+    margin: 1em 0 0 0
+}
+
+.header-w__title2 {
+    font-size: 250%;
+    font-family: Lobster;
+    margin: 0
+}
+
+.paragraph {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif
+}
+
+/*Estos son los estilos que le dan la funcionalidad al menÃº*/
+
+/*El checkbox segÃºn estÃ© activado o no harÃ¡ que el menÃº aparezca o desaparezca*/
+
+.checkbox {
+    display: none;
+    /*Ocultamos el checkbox pues no nos interesa que se vea*/
+}
+
+.checkbox:checked~.nav-burger {
+    left: 0;
+    /*Le quitamos el left negativo para que el menÃº vuelva a su posiciÃ³n original*/
+    position: fixed;
+    /* Fijamos el menÃº lateral para que se desplace cuando hagamos scroll*/
+    z-index: 1000000000000000000000000000000000000
+}
+
+.checkbox:checked~.main-w {
+    margin-left: 200px;
+    /*Cuando el checkbox asigna un margen al contenedor principal para que se desplace junto con el menÃº*/
+}
+
+.checkbox:checked~.menu-toogle {
+    left: 208px;
+    position: fixed;
+    /*Fijamos la hamburgues para que se desplace junto con el menÃº*/
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important
+}
+
+/******************    *******************/
+
+hr {
+    width: 80px;
+    border-color: #000;
+    border-top: 5px solid #000
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important
+}
+
+.bg-white {
+    background-color: #FF595F;
+}
+
+.bg-negro {
+    background-color: #292929
+}
+
+.bg-amarillo {
+    /*background-color: #efc600 color amarillo*/
+    background-color: #ad1419
+}
+
+.bg-arena {
+    background-color: #d9d8c7
+}
+
+.bg-aguaverde {
+    background-color: #e9f1df
+}
+
+.bg-black {
+    background-color: #000
+}
+
+.img-fluida {
+    width: 100%
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+    background: #fff
+}
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+    background: #6b7363;
+    color: #FFF;
+    text-decoration: none
+}
+
+.navbar-toggle {
+    padding: 15px 15px;
+    margin-top: 10px;
+    border-radius: 5px
+}
+
+.padding-top-270 {
+    padding-top: 270px !important
+}
+
+.padding-top-250 {
+    padding-top: 250px !important
+}
+
+.padding-top-200 {
+    padding-top: 200px !important
+}
+
+.padding-top-150 {
+    padding-top: 150px
+}
+
+.padding-top-100 {
+    padding-top: 80px !important
+}
+
+.padding-top-80 {
+    padding-top: 80px
+}
+
+.padding-top-60 {
+    padding-top: 60px
+}
+
+.padding-top-50 {
+    padding-top: 50px
+}
+
+.padding-top-40 {
+    padding-top: 40px
+}
+
+.padding-top-30 {
+    padding-top: 30px
+}
+
+.padding-top-20 {
+    padding-top: 20px
+}
+
+.padding-bottom-10 {
+    padding-bottom: 10px !important
+}
+
+.padding-bottom-20 {
+    padding-bottom: 20px !important
+}
+
+.padding-bottom-30 {
+    padding-bottom: 30px
+}
+
+.padding-bottom-50 {
+    padding-bottom: 50px !important
+}
+
+.padding-bottom-100 {
+    padding-bottom: 70px
+}
+
+.padding-bottom-150 {
+    padding-bottom: 150px
+}
+
+.padding-bottom-200 {
+    padding-bottom: 200px !important;
+}
+
+.padding-right-100 {
+    padding-right: 100px
+}
+
+p.txt-portada {
+    font: 33px/35px "robotobold";
+    color: #fff;
+    padding: 45px 120px 60px 120px
+}
+
+#footer img {
+    padding-top: 20px
+}
+
+ul.affix {
+    top: 30%
+}
+
+.flotador {
+    width: 200px;
+    height: 165px;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.9);
+    z-index: 9;
+    border-radius: 10px 0 0 10px
+}
+
+.title-flotador {
+    font: 20px/24px "stagbold";
+    padding-left: 15px;
+    color: #000
+}
+
+.color-osc {
+    color: #555 !important
+}
+
+ul.flotador>li {
+    height: 40px;
+    border-top: 1px solid #d4d4d4;
+    width: 100%;
+    list-style: none
+}
+
+.nav-pills>li>a {
+    border-radius: 4px;
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none
+}
+
+ul.flotador>li:hover,
+ul.flotador>li:hover>a,
+ul.flotador>li:active>a,
+ul.flotador>li:focus>a {
+    color: #fff;
+    background-color: #d9d8c7;
+    text-decoration: none
+}
+
+.marcado {
+    color: white !important;
+    background-color: #d9d8c7 !important;
+    text-decoration: none
+}
+
+.nav-pills>li.marcado>a {
+    color: white !important
+}
+
+/*.item7 {
+    opacity: 0;
+    -webkit-animation-name: Opacidad1;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 2s;
+    -moz-animation-name: Opacidad1;
+    -moz-animation-duration: 1s;
+    -moz-animation-iteration-count: 1;
+    -moz-animation-timing-function: linear;
+    -moz-animation-delay: 2s;
+    -o-animation-name: Opacidad1;
+    -o-animation-duration: 1s;
+    -o-animation-iteration-count: 1;
+    -o-animation-timing-function: linear;
+    -o-animation-delay: 2s;
+    -ms-animation-name: Opacidad1;
+    -ms-animation-duration: 1s;
+    -ms-animation-iteration-count: 1;
+    -ms-animation-timing-function: linear;
+    -ms-animation-delay: 2s;
+    animation-name: Opacidad1;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    animation-delay: 2s;
+    }
+@-webkit-keyframes Opacidad1 {
+    0% {
+        opacity: 0;
+        } 
+    80% {
+        opacity: 0.9;
+        }
+    }*/
+
+.item7:hover {
+    -webkit-animation-name: AnimInfinita2;
+    -webkit-animation-duration: 1s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 0s;
+    -moz-animation-name: AnimInfinita2;
+    -moz-animation-duration: 1s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -moz-animation-delay: 0s;
+    -o-animation-name: AnimInfinita2;
+    -o-animation-duration: 1s;
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+    -o-animation-delay: 0s;
+    -ms-animation-name: AnimInfinita2;
+    -ms-animation-duration: 1s;
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+    -ms-animation-delay: 0s;
+    animation-name: AnimInfinita2;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 0s
+}
+
+@-webkit-keyframes AnimInfinita2 {
+    0% {
+        transform: rotate(2deg);
+        opacity: 0.7;
+    }
+    40% {
+        transform: rotate(-10deg);
+        opacity: 0.9;
+    }
+    80% {
+        transform: rotate(10deg)
+    }
+    100% {
+        transform: rotate(2deg)
+    }
+}
+
+.saltar {
+    -webkit-animation-name: AnimInfinita1;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 1s;
+    -moz-animation-name: AnimInfinita1;
+    -moz-animation-duration: 2s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -moz-animation-delay: 1s;
+    -o-animation-name: AnimInfinita1;
+    -o-animation-duration: 2s;
+    -o-animation-iteration-count: infinite;
+    -o-animation-timing-function: linear;
+    -o-animation-delay: 1s;
+    -ms-animation-name: AnimInfinita1;
+    -ms-animation-duration: 2s;
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+    -ms-animation-delay: 1s;
+    animation-name: AnimInfinita1;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-delay: 1s
+}
+
+@-webkit-keyframes AnimInfinita1 {
+    0% {
+        transform: translateY(0px)
+    }
+    50% {
+        transform: translateY(-25px)
+    }
+    100% {
+        transform: translateY(0px)
+    }
+}
+
+.iconitos {
+    width: 40px;
+    margin: 0 10px
+}
+
+.color-blanco {
+    color: white !important
+}
+
+.color-gris {
+    color: #acacac
+}
+
+.bloque-rosa {
+    color: #fff;
+    background-color: #1e4351
+}
+
+.bloque-rosa p {
+    color: white !important;
+    padding-bottom: 17px
+}
+
+.box-main-leyenda ul {
+    display: inline-block;
+    margin: 20px auto;
+    padding: 0;
+    vertical-align: top
+}
+
+.box-main-leyenda ul li {
+    /*background: url(/especiales/ganadores-elecciones/img/btn.png);*/
+    cursor: pointer;
+    display: inline-block;
+    height: 8px;
+    margin: 2px 2px;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: middle;
+    width: 8px;
+    border-radius: 50px;
+    border: 1px solid white;
+    border-style: dashed
+}
+
+.box-main-leyenda ul li:hover {
+    /*background: url(/especiales/ganadores-elecciones/img/btn.png) 0 -54px*/
+}
+
+.box-main-leyenda ul li span {
+    display: block;
+    padding: 0 0 12px 0
+}
+
+.box-main-leyenda ul li:hover .tooltip {
+    opacity: 1;
+    pointer-events: auto;
+    -webkit-transform: translatey(0);
+    -moz-transform: translatey(0);
+    -ms-transform: translatey(0);
+    -o-transform: translatey(0);
+    transform: translatey(0)
+}
+
+.boxing {
+    height: 80px;
+    border-radius: 10px;
+    border: 1px solid #d1d1d2;
+    padding: 18px 0;
+    width: 450px
+}
+
+.botonera {
+    padding: 0 20px;
+    width: 100%;
+    /*background-color: pink;*/
+}
+
+.separator {
+    width: 2px;
+    height: 80px;
+    background-color: #d1d1d2
+}
+
+.img-ico {
+    padding-right: 10px;
+    width: 60px
+}
+
+ul.menu-movil li {
+    list-style: none;
+    text-transform: uppercase;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px
+}
+
+ul.menu-movil li a {
+    color: grey
+}
+
+ul.menu-movil li a,
+ul.menu-movil li a:hover {
+    text-decoration: none
+}
+
+.force {
+    left: -550px !important;
+    padding: 10px !important;
+    background: #fff;
+    min-width: 100px !important
+}
+
+.tooltip img {
+    padding-top: 10px
+}
+
+.tooltip {
+    font: 15px/17px "georgiaregular";
+    font-weight: 600;
+    bottom: 100%;
+    color: #000;
+    background: #fff;
+    /* display: inline-block; */
+    /* left: -130px; */
+    left: -20px;
+    margin: 7px 0;
+    opacity: 0;
+    padding: 10px 5px;
+    pointer-events: none;
+    /* position: absolute; */
+    min-width: 120px;
+    /* min-width: 100%; */
+    text-align: center;
+    z-index: 20;
+    -webkit-transform: translatey(10px);
+    -moz-transform: translatey(10px);
+    -ms-transform: translatey(10px);
+    -o-transform: translatey(10px);
+    transform: translatey(10px);
+    -webkit-transition: all 0.25s ease-out;
+    -moz-transition: all 0.25s ease-out;
+    -ms-transition: all 0.25s ease-out;
+    -o-transition: all 0.25s ease-out;
+    transition: all 0.25s ease-out;
+    -webkit-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+    -moz-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+    -ms-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+    -o-box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28);
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.28)
+}
+
+span.sub-bold {
+    font: 17px/20px "charterbtproblackitalic";
+    margin: 0 !important
+}
+
+span.bold {
+    font-weight: 900
+}
+
+.navbar-nav>li>a {
+    text-align: center;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease
+}
+
+.img-responsive,
+.thumbnail>img,
+.thumbnail a>img,
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    display: block;
+    width: 100%;
+    height: auto
+}
+
+.section-white {
+    padding: 10px 0
+}
+
+.section-white {
+    background-color: #fff;
+    color: #555
+}
+
+@media screen and (max-width: 768px) {
+    .padding-bottom-100 {
+        padding-bottom: 30px !important
+    }
+    .padding-top-100 {
+        padding-top: 30px !important
+    }
+    .padding-top-50 {
+        padding-top: 15px
+    }
+    .padding-bottom-50 {
+        padding-bottom: 15px !important
+    }
+    .item7 {
+        width: 49% !important
+    }
+    .item7 img {
+        width: 94% !important;
+        padding-left: 4px;
+    }
+    #header-video {
+        padding-top: 0
+    }
+    .section-white {
+        padding: 1.5em 0
+    }
+    .txt-subtitle {
+        padding-right: 0 !important
+    }
+    .flotador {
+        display: none
+    }
+    h3 {
+        font: 50px/50px "stagsemibold"
+    }
+    h2 {
+        font: 65px/42px "stagbookitalic"
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        position: inherit !important;
+        bottom: 0 !important
+    }
+    .txt-subtitle {
+        font: 20px/28px "robotoregular"
+    }
+    #todas-para-una {
+        background: 0;
+        min-height: auto
+    }
+    p.txt-b-title {
+        font: 72px/15px "stagbold";
+        padding-bottom: 20px
+    }
+    p.txt-informo {
+        padding-top: 100px
+    }
+    p.img-creditos2 {
+        padding-right: 0;
+        padding-top: 0
+    }
+    #swipebox-title {
+        width: 100%;
+        text-align: center;
+        padding: 5px 0
+    }
+    h5 {
+        font: 32px/32px "stagsemibold";
+        padding-top: 10px;
+        color: #080b0d
+    }
+    .nav>li {
+        width: 100%;
+        margin: 0
+    }
+    .nav>li>a {
+        padding: 10px 0 10px 18px !important;
+        background: #f7f7f7;
+        text-align: left !important
+    }
+    .nav-tabs>li.active>a,
+    .nav-tabs>li.active>a:hover,
+    .nav-tabs>li.active>a:focus {
+        color: black !important;
+        background: #d6d6d6;
+        font-size: 19px;
+        border: 0
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .container {
+        max-width: 980px
+    }
+}
+
+#ooyalaplayer .innerWrapper,
+#ooyalaplayer-2 .innerWrapper,
+#ooyalaplayer-3 .innerWrapper,
+#ooyalaplayer-4 .innerWrapper {
+    height: 324px !important
+}
+
+@media (max-width: 767px) {
+    p.txt-header {
+        border-width: 4px;
+        margin: 40px 90px
+    }
+    .navbar {
+        background-position: center 365px
+    }
+    a.btn-seccion,
+    a.btn-seccion-2 {
+        margin-bottom: 20px
+    }
+}
+
+@media (max-width: 992px) {
+    .width-100 {
+        width: 100% !important
+    }
+}
+
+@media (max-width: 650px) {
+    h3 {
+        font: 50px/40px "stagsemibold"
+    }
+    #header-uno,
+    #header-tres,
+    #header-dos {
+        margin-top: 0 !important
+    }
+    p.bg-green {
+        font: 25px/30px "robotobold"
+    }
+    p.bg-green span {
+        font: 25px/30px "robotolight" !important
+    }
+    .iconitos {
+        width: 20px;
+        margin: 0 7px
+    }
+    .ui-accordion .ui-accordion-header {
+        font-size: 113% !important
+    }
+    h1.lap-red {
+        padding-top: 30px !important
+    }
+    #header-uno,
+    #header-tres,
+    #header-dos {
+        min-height: 750px !important
+    }
+    .item7 {
+        margin-bottom: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .item7 p {
+        font: 24px/30px "magic-dreams";
+        padding: 5px 5px 30px 5px;
+    }
+    #wst{
+        display: inline-block;
+    }
+}
+
+@media (min-width: 768px) {
+    .box-main-leyenda ul {
+        display: none
+    }
+    .navbar-nav {
+        display: inline-flex
+    }
+    .menu-toogle {
+        display: none
+    }
+    .checkbox:checked~.nav-burger {
+        display: none
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .navbar-nav>li {
+        max-width: 190px
+    }
+}
+
+/*** OCULTAR EN PANTALLAS GRANDES ***/
+
+@media (min-width: 768px) {
+    #my-movil {
+        display: none !important
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    #social ul li a.wst {
+        display: block
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    /*a.logo-comercio {
+        display: none
+        }*/
+}
+
+/*Banners de publicidad*/
+
+.container-top {
+    margin: 0;
+    padding: 10px 0;
+    height: auto;
+    text-align: center;
+}
+
+.container-caja3 {
+    display: none;
+}
+
+.lateral-izq {
+    float: left;
+    display: inline-block;
+    margin: 40px 25px;
+    width: 12%;
+    /*flex: 160px 1;*/
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    height: 640px;
+    overflow: auto;
+    position: -webkit-sticky;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+.lateral-der {
+    float: right;
+    display: inline-block;
+    margin: 40px 25px;
+    width: 12%;
+    /*flex: 160px 1;*/
+    -webkit-box-flex: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    height: 620px;
+    overflow: auto;
+    position: -webkit-sticky;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+.container-zocalo {
+    /*max-width: inherit;*/
+    max-width: 728px;
+    height: auto;
+    z-index: 2147483646;
+    position: fixed;
+    margin: 0 auto;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+/*Fin banners de publicidad*/
+
+@media only screen and (max-width:1400px) {
+    .lateral-izq,
+    .lateral-der {
+        margin: 30px 5px;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    /*Banners de publicidad*/
+    .lateral-izq,
+    .lateral-der {
+        display: none;
+    }
+    /*Fin banners de publicidad*/
+}
+
+@media only screen and (max-width:768px) {
+    /*Banners de publicidad*/
+    .container-top {
+        overflow: scroll;
+        width: 100%;
+        height: auto
+    }
+    .container-caja3 {
+        display: block;
+        margin: 10px auto 20px auto;
+        text-align: center;
+    }
+    /*Fin banners de publicidad*/
+}
